@@ -1,0 +1,269 @@
+.body{
+    background-image: url(/image/pexels.jpg);
+}
+
+
+.head{
+   
+     
+     position: relative;
+    left: 100px;
+}
+
+
+.colo{
+    background-color: rgb(20, 86, 126);
+}
+
+.viewall1{
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    position: absolute;
+    top: 370px;
+    right: 60px;
+   
+}
+
+.viewall2{
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    position: absolute;
+    top: 860px;
+    right: 60px;
+   
+}
+
+.viewall3{
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    position: absolute;
+    top: 1330px;
+    right: 60px;
+   
+}
+
+.viewall4{
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    position: absolute;
+    top: 1800px;
+    right: 60px;
+   
+}
+
+.foot0{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+
+.foot1{
+    position: absolute;
+    top: 2210px;
+    left: 300px;
+    
+}
+.foot2{
+    position: absolute;
+    top: 2240px;
+    left: 300px;
+    
+}
+.foot3{
+    position: absolute;
+    top: 2270px;
+    left: 300px; 
+    
+}
+.foot4{
+    position: absolute;
+    top: 2210px;
+    /* right: 100px;  */
+    left: 600px;
+    
+}
+.foot5{
+    position: absolute;
+    top: 2240px;
+    /* right: 100px;  */
+    left: 600px;
+    
+    }
+
+.foot6{
+    top: 2270px;
+    position: absolute;
+    left: 600px; 
+    
+}
+
+
+.hove:hover{
+    color: rgb(98, 193, 142);
+}
+
+@media (max-width:1400px){
+    .head{
+        position: relative;
+        left: 140px;
+    }
+
+    .viewall1{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 360px;
+        right: 120px;
+       
+    }
+    .viewall2{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 1180px;
+        right: 120px;
+       
+    }
+    .viewall3{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 2030px;
+        right: 120px;
+       
+    }
+    .viewall4{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 2850px;
+        right: 120px;
+       
+    }
+
+    .foot1{
+        top: 3570px;
+        position: absolute;
+        left: 300px; 
+        
+    }
+    .foot2{
+        position: absolute;
+        top: 3600px;
+        left: 300px; 
+        
+    }
+    .foot3{
+        position: absolute;
+        top: 3630px;
+        left: 300px; 
+        
+    }
+    .foot4{
+        position: absolute;
+        top: 3570px;
+        left: 600px; 
+        
+    }
+    .foot5{
+        position: absolute;
+        top: 3600px;
+        
+        left: 600px;
+        
+        }
+    
+    .foot6{
+        position: absolute;
+        top: 3630px;
+        left: 600px; 
+        
+    }
+    
+}
+
+@media (max-width:767px){
+    .head{
+        position: relative;
+        left: 220px;
+
+    }
+
+    .viewall1{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 370px;
+        right: 190px;
+       
+    }
+    .viewall2{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 1900px;
+        right: 190px;
+       
+    }
+    .viewall3{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 3430px;
+        right: 190px;
+       
+    }
+    .viewall4{
+        margin: 5px;
+        padding: 5px;
+        position: absolute;
+        top: 4900px;
+        right: 190px;
+       
+    }
+
+    .foot1{
+        position: absolute;
+        top: 6220px;
+        left: 300px; 
+        
+    }
+    .foot2{
+        position: absolute;
+        top: 6250px;
+        left: 300px; 
+        
+    }
+    .foot3{
+        position: absolute;
+        top: 6280px;
+        left: 300px; 
+        
+    }
+    .foot4{
+        position: absolute;
+        top: 6220px;
+        left: 600px; 
+        
+    }
+    .foot5{
+        position: absolute;
+        top: 6250px;
+        
+        left: 600px;
+        
+        }
+    
+    .foot6{
+        position: absolute;
+        top: 6280px;
+        left: 600px; 
+        
+    }
+    
+}
